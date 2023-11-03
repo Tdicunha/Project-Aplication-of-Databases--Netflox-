@@ -1,0 +1,3 @@
+# Project-Aplication-of-Databases--Netflox-
+
+This project was undertaken as part of the course “Databases”, with the aim of developing an application that incorporated the principles of database management. The application consists of a system that allows to manage an online business that consists of renting items of various kinds (series, films, and documentaries) for online viewing and management of the inventory. Thus, to perform this application, it is necessary to build a database and interface that allows for a set of functionalities. For example, it is necessary to build a database application that allows customers to search and rent for available articles and that allows administrators to perform system management tasks.
